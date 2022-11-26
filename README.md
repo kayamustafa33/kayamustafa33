@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @kayamustafa33
-- 👀 I’m interested in Android Java and Kotlin, Cyber Security,
-- 🌱 I’m currently learning Java, Kotlin and Cyber Security, C/C++,C#,
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me => yazilimcimustafa33@gmail.com or mustafa.kaya@final.edu.tr
+![githup_profile](https://user-images.githubusercontent.com/89656051/204089613-a07b1a43-28ac-4092-978a-9cbe13fe4e9e.png)
 
-<!---
-kayamustafa33/kayamustafa33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My Skills ->
+JAVA,
+ C#,
+ C/C++,
+ KOTLIN,
+ PENETRATION TESTING,
+ CYBER SECURITY,
+
+
+Contact Information ->
+yazilimcimustafa@gmail.com and mustafa.kaya@final.edu.tr
